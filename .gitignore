@@ -1,6 +1,8 @@
 /target
 .venv/
 
+shakes_app/debug
+
 # Ignore all bin folders
 **/bin/
 
@@ -118,3 +120,39 @@ bundles/
 vendor/pkg/
 pyenv
 Vagrantfile
+shakes_app/target/.rustc_info.json
+shakes_app/target/CACHEDIR.TAG
+shakes_app/target/debug/.cargo-lock
+shakes_app/target/debug/.fingerprint/shakes_app-587e3ccc2a8793eb/invoked.timestamp
+shakes_app/target/debug/.fingerprint/shakes_app-587e3ccc2a8793eb/test-bin-shakes_app
+shakes_app/target/debug/.fingerprint/shakes_app-587e3ccc2a8793eb/test-bin-shakes_app.json
+shakes_app/target/debug/.fingerprint/shakes_app-66e26b2400f39017/invoked.timestamp
+shakes_app/target/debug/.fingerprint/shakes_app-66e26b2400f39017/output-test-integration-test-_start_app_engine copy
+shakes_app/target/debug/.fingerprint/shakes_app-66e26b2400f39017/test-integration-test-_start_app_engine copy
+shakes_app/target/debug/.fingerprint/shakes_app-66e26b2400f39017/test-integration-test-_start_app_engine copy.json
+shakes_app/target/debug/.fingerprint/shakes_app-a5a9b74f0c4a5a40/invoked.timestamp
+shakes_app/target/debug/.fingerprint/shakes_app-a5a9b74f0c4a5a40/test-integration-test-_start_app_engine copy
+shakes_app/target/debug/.fingerprint/shakes_app-a5a9b74f0c4a5a40/test-integration-test-_start_app_engine copy.json
+shakes_app/target/debug/.fingerprint/shakes_app-ae720bec63753075/bin-shakes_app
+shakes_app/target/debug/.fingerprint/shakes_app-ae720bec63753075/bin-shakes_app.json
+shakes_app/target/debug/.fingerprint/shakes_app-ae720bec63753075/dep-bin-shakes_app
+shakes_app/target/debug/.fingerprint/shakes_app-ae720bec63753075/invoked.timestamp
+shakes_app/target/debug/.fingerprint/shakes_app-b5720dd6eb741c8f/bin-shakes_app
+shakes_app/target/debug/.fingerprint/shakes_app-b5720dd6eb741c8f/bin-shakes_app.json
+shakes_app/target/debug/.fingerprint/shakes_app-b5720dd6eb741c8f/invoked.timestamp
+shakes_app/target/debug/.fingerprint/shakes_app-e24d0d1ddb5d1bc3/dep-test-bin-shakes_app
+shakes_app/target/debug/.fingerprint/shakes_app-e24d0d1ddb5d1bc3/invoked.timestamp
+shakes_app/target/debug/.fingerprint/shakes_app-e24d0d1ddb5d1bc3/test-bin-shakes_app
+shakes_app/target/debug/.fingerprint/shakes_app-e24d0d1ddb5d1bc3/test-bin-shakes_app.json
+shakes_app/target/debug/deps/libshakes_app-ae720bec63753075.rmeta
+shakes_app/target/debug/deps/libshakes_app-e24d0d1ddb5d1bc3.rmeta
+shakes_app/target/debug/deps/shakes_app-ae720bec63753075.d
+shakes_app/target/debug/deps/shakes_app-e24d0d1ddb5d1bc3.d
+shakes_app/target/debug/incremental/shakes_app-1gfkahzjw5csf/s-gwupgvxh9d-vuyvur.lock
+shakes_app/target/debug/incremental/shakes_app-1gfkahzjw5csf/s-gwupgvxh9d-vuyvur-6p21glpdr885diepz3czxnek2/dep-graph.bin
+shakes_app/target/debug/incremental/shakes_app-1gfkahzjw5csf/s-gwupgvxh9d-vuyvur-6p21glpdr885diepz3czxnek2/query-cache.bin
+shakes_app/target/debug/incremental/shakes_app-1gfkahzjw5csf/s-gwupgvxh9d-vuyvur-6p21glpdr885diepz3czxnek2/work-products.bin
+shakes_app/target/debug/incremental/shakes_app-39tunmvvz4e8h/s-gwupgvxius-1ibtl6d.lock
+shakes_app/target/debug/incremental/shakes_app-39tunmvvz4e8h/s-gwupgvxius-1ibtl6d-80x4wb0i89wcw4fpgl49r6lrp/dep-graph.bin
+shakes_app/target/debug/incremental/shakes_app-39tunmvvz4e8h/s-gwupgvxius-1ibtl6d-80x4wb0i89wcw4fpgl49r6lrp/query-cache.bin
+shakes_app/target/debug/incremental/shakes_app-39tunmvvz4e8h/s-gwupgvxius-1ibtl6d-80x4wb0i89wcw4fpgl49r6lrp/work-products.bin
